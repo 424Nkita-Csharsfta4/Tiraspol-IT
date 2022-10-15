@@ -1,4 +1,14 @@
-# Landing-Page-Vue-Main
+#IT Tiraspol
+
+#Use texnologie
+
+Vue
+Tailwind
+Vuetify
+
+
+![image](https://user-images.githubusercontent.com/103760832/195991478-520ea488-d76d-4800-bca2-044b7d979837.png)
+
 
 ## Project setup
 ```
